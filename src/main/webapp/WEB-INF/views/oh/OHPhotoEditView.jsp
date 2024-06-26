@@ -29,9 +29,13 @@
 
 	<!-- ----------------------------------------------------- -->
 	
-	<!-- header, footer -->
+	<!-- header -->
 	<link rel="stylesheet" 
-		  href="${path}/resources/css/header_footer.css" />
+		  href="${path}/resources/css/header.css" />
+	<!-- footer -->	  
+	<link rel="stylesheet" 
+		  href="${path}/resources/css/footer.css" />
+	<!-- https://fontawesome.com/ -->		  		  
 	<link rel="stylesheet" 
 	      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" />
 

@@ -2,9 +2,18 @@
 
 프로젝트의 주요 기능과 목적
 
-설치방법
+사용기술, 설치방법
 	
 	OS: Window
+	Spring Framework - Version 5.1.11
+	JDK - Version 11.0.21
+	Server - Apache Tomcat 9.0.86
+	DB Server - Oracle 11g
+	Language - Java
+			   HTML, CSS, JavaScript
+			   JSP, SQL, Ajax, Jquery
+	Etc - Maven Library (Lombok, MyBatis …)	
+          Git, GitHub, Sourcetree			   
 
 문제 해결 방법
 
